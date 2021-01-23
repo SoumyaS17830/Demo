@@ -7,7 +7,7 @@ public class A
 	}
 	public static void main(String[] args) 
 	{
-		A a=new A();		
+		A a=new A();	//added a comment	
 	}
 
 }
